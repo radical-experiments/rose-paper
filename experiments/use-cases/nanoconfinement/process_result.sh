@@ -1,0 +1,3 @@
+#python /eagle/RECUP/twang/rose/nanoconfinement/nanoconfinement-md/python/surrogate_samplesize/evaluate_test.py --data_dir /eagle/RECUP/twang/rose/nanoconfinement/nanoconfinement-md/python/surrogate_samplesize/all_data_4050 --model_root_path /eagle/RECUP/twang/rose/nanoconfinement/nanoconfinement-md/python/surrogate_samplesize/exp
+
+python /eagle/RECUP/twang/rose/nanoconfinement/nanoconfinement-md/python/surrogate_samplesize/evaluate_test.py --data_dir /eagle/RECUP/twang/rose/nanoconfinement/nanoconfinement-md/python/surrogate_samplesize/all_data_4050 --model_root_path /eagle/RECUP/twang/rose/nanoconfinement/nanoconfinement-md/python/surrogate_samplesize/exp_small

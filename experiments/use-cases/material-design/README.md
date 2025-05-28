@@ -1,4 +1,4 @@
-# Steps to reprdouce the results of ROSE paper for this use case
+# Steps to reproduce the results of ROSE paper for this use case
 
 1- Setup conda env on Polaris from the following docs:
 https://radicalpilot.readthedocs.io/en/devel/supported/polaris.html

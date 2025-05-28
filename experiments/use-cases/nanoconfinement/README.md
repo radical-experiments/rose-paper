@@ -1,4 +1,4 @@
-# Steps to reprdouce the results of ROSE paper for this use case
+# Steps to reproduce the results of ROSE paper for this use case
 
 1-setup your modules
 ```sh
